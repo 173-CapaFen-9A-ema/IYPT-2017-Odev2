@@ -23,7 +23,13 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+Yapılacak olan deney Black Spoon(Siyah Kaşık) deneyidir."Black Spoon" deneyinde kullanılan malzemeler birer adet metal kaşık, mum ve su dolu bir kaptır.
+
+Deneyin ilk adımı olarak bir adet metal kaşık bir süre mum alevinin üzerinde tutularak yüzeyi karartılır. Daha sonra karartılan metal kaşık, su dolu bir kaba batırılır. Kaşık suyun dışında kararmış görünürken, su içinde parlaktır ve ayna etkisi gösterir. Bu durum şöyle açıklanabilir:
+
+Metal kaşık mum alevine tutulduğunda oluşan is parçacıkları çok küçük olduğundan suda ıslanmaları çok zordur. İs parçacıkları bir film gibi kaşığın etrafını sararak kaşığın su ile temasını engeller. Bu film, aynı zamanda kaşığın bir ayna gibi ışığı yansıtmasına sebep olur. Ve bu sayede kararmış kaşık, su içerisindeyken parlak gözükür.
+
+Deney sonucunda; karartılan kaşığın, suda ve havada neden farklı gözüktüğü bulunur, aynaya benzer özellikleri belirlenir ve olgular araştırılır. Bu araştırma sırasında "Aynaların optik özellikleri, karbonun ve isin özellikleri, hava ve suyun özelliklerinin kaşığın görüntüsüne etkisi" konularından faydalanılır. Bu konularla ilgili bilgilere aşağıda kaynakçada verilmiş olan adreslerden ulaşılabilir.
 # Giriş (Introduction)
 Bu bölüm; 
 literatür
