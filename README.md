@@ -38,7 +38,11 @@ Deneyi uygulayan grup üyesinin mutfağında deney yapılmıştır.
 - 1 adet mum
 - 1 kap içerisinde bir miktar su (kullanılan kap saydam olmalıdır)
 - 1 adet peçete (kaşığı temizlemeniz gerekirse lazım olacak)
-# 4. 
+# 4. Deneyi Yapanlar
+Deneyi grup üyelerinden Melis yapmıştır ve deneyi video kayıdına almak için başka birinden yardım almıştır.
+# 5. Deney Süresi
+Deney yaklaşık 1 saat sürmüştür. Deneyde yapılan yanlış bir hamle dolayısıyla süre uzamıştır.
+
 
 Bu bölümde aşağıdaki kısımla
 ra ve alt başlıklara yer verilir
