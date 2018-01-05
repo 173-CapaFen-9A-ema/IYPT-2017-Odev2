@@ -11,7 +11,12 @@
 # Giriş (Introduction)
  Deneyin amacı: Mum alevinde karartılılp karbonla kaplanan metal kaşığın su içine konulmasıyla kaşıkta oluşan ayna görüntüsünün nedeninin ve optik özelliklerinin araştırılmasıdır.
  
- Bu problemi seçmemizin nedeni karartılmış kaşığın suyun içine girdiğinde ayna gibi parlamasının nedenini merak etmemizdir. İYPT'nin 2008 yılının sorusu olan bu problem için kaynak bulabildik.
+ Bu problemi seçmemizin nedeni karartılmış kaşığın suyun içine girdiğinde ayna gibi parlamasının nedenini merak etmemizdir. İYPT'nin 2008 yılının sorusu olan bu problem için kaynak bulabildik. Bu kaynaklar aşağıdaki gibidir;
+ Посеребренное яйцо //Т. Тит. Научные развлечения. Детиздат ЦК ВЛКСМ, М.-Л.,1937. http://igrushka.kz/vip61/opsvet.php
+ Wikipedia: Total internal reflection(Toplam İç Yansıma). http://en.wikipedia.org/wiki/Total_internal_reflection
+ Wikipédia: Noir de fumée(Siyah Duman).http://fr.wikipedia.org/wiki/Noir_de_fum%C3%A9e
+ Wikipedia: Soot(İs). http://en.wikipedia.org/wiki/Soot
+ Queensland Üniversitesi'ndeki Okul Bilim Dersleri. http://www.uq.edu.au/_School_Science_Lessons/UNPh28.html
 # Materyal ve Yöntem (Experimental Setup)
 
 Bu bölümde aşağıdaki kısımla
