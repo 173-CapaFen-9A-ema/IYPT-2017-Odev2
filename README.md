@@ -11,7 +11,7 @@
 # Giriş (Introduction)
  Deneyin amacı: Mum alevinde karartılılp karbonla kaplanan metal kaşığın su içine konulmasıyla kaşıkta oluşan ayna görüntüsünün nedeninin ve optik özelliklerinin araştırılmasıdır.
  
- Bu problemi seçmemizin nedeni karartılmış kaşığın suyun içine girdiğinde ilk halindeki gibi parlamasının nedenini merak etmemizdir.
+ Bu problemi seçmemizin nedeni karartılmış kaşığın suyun içine girdiğinde ayna gibi parlamasının nedenini merak etmemizdir. İYPT'nin 2008 sorusu olan bu problem için kaynak bulabildik.
 # Materyal ve Yöntem (Experimental Setup)
 
 Bu bölümde aşağıdaki kısımla
