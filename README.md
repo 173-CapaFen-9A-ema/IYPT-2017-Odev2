@@ -24,6 +24,8 @@
  *Wikipedia: Soot(İs). http://en.wikipedia.org/wiki/Soot
  
  *Queensland Üniversitesi'ndeki Okul Bilim Dersleri. http://www.uq.edu.au/_School_Science_Lessons/UNPh28.html
+ 
+ Yeterince veri topladıktan sonra sıra deneyi yapmaya geldi. Deneyimizi yaptık, ve deneyin yapılış aşamalarını aşağıda belirttik.
 # Materyal ve Yöntem (Experimental Setup)
 
 Bu bölümde aşağıdaki kısımla
