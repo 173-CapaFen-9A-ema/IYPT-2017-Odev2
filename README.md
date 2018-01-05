@@ -37,6 +37,7 @@ Deneyi uygulayan grup üyesinin mutfağında deney yapılmıştır.
 - 1 kutu kibrit (sadece 1 kibrit yeterli)
 - 1 adet mum
 - 1 kap içerisinde bir miktar su (kullanılan kap saydam olmalıdır)
+- 1 adet peçete (kaşığı temizlemeniz gerekirse lazım olacak)
 
 Bu bölümde aşağıdaki kısımla
 ra ve alt başlıklara yer verilir
