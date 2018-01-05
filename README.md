@@ -28,7 +28,16 @@
  Yeterince veri topladıktan sonra sıra deneyi yapmaya geldi. Deneyimizi yaptık, ve deneyin yapılış aşamalarını aşağıda belirttik.
 # Materyal ve Yöntem (Experimental Setup)
 Çalışmanın 2.aşaması olan deneyin aşamaları aşağıdaki şekildedir.
-# 1.Çalışmanın Yöntemi ve Deneyi
+# 1.Veri Toplama
+1.Ödevde yaptığımız gibi birkaç makaleden yararlandık. Deneyle ilgili püf noktaları edindikten sonra bunları uygulamaya çalıştık.
+# 2.Deney Ortamı
+Deneyi uygulayan grup üyesinin mutfağında deney yapılmıştır.
+# 4. Deney Malzemeleri
+- 1 adet metal kaşık
+- 1 kutu kibrit (sadece 1 kibrit yeterli)
+- 1 adet mum
+- 1 kap içerisinde bir miktar su (kullanılan kap saydam olmalıdır)
+
 Bu bölümde aşağıdaki kısımla
 ra ve alt başlıklara yer verilir
 
