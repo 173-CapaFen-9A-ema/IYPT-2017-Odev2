@@ -28,7 +28,7 @@
  Yeterince veri topladıktan sonra sıra deneyi yapmaya geldi. Deneyimizi yaptık, ve deneyin yapılış aşamalarını aşağıda belirttik.
 # Materyal ve Yöntem (Experimental Setup)
 Çalışmanın 2.aşaması olan deneyin aşamaları aşağıdaki şekildedir.
-#1.Çalışmanın Yöntemi ve Deneyi
+# 1.Çalışmanın Yöntemi ve Deneyi
 Bu bölümde aşağıdaki kısımla
 ra ve alt başlıklara yer verilir
 
