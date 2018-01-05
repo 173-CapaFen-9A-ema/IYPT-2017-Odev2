@@ -81,6 +81,6 @@ Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapac
 
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
-Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
+
 
 
