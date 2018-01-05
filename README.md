@@ -10,6 +10,7 @@
    Deney sonucunda; karartılan kaşığın, suda ve havada neden farklı gözüktüğü bulunur, aynaya benzer özellikleri belirlenir ve olgular araştırılır. Bu araştırma sırasında "Aynaların optik özellikleri, karbonun ve isin özellikleri, hava ve suyun özelliklerinin kaşığın görüntüsüne etkisi" konularından faydalanılır. Bu konularla ilgili bilgilere aşağıda kaynakçada verilmiş olan adreslerden ulaşılabilir.
 # Giriş (Introduction)
  Deneyin amacı: Mum alevinde karartılılp karbonla kaplanan metal kaşığın su içine konulmasıyla kaşıkta oluşan ayna görüntüsününnedeninin ve optik özelliklerinin araştırılmasıdır.
+ 
  Bu problemi seçmemizin nedeni karartılmış kaşığın suyun içine girdiğinde ilk halindeki gibi parlamasının nedenini merak etmemizdir.
 # Materyal ve Yöntem (Experimental Setup)
 
