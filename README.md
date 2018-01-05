@@ -32,12 +32,13 @@
 1.Ödevde yaptığımız gibi birkaç makaleden yararlandık. Deneyle ilgili püf noktaları edindikten sonra bunları uygulamaya çalıştık.
 # 2.Deney Ortamı
 Deneyi uygulayan grup üyesinin mutfağında deney yapılmıştır.
-# 4. Deney Malzemeleri
+# 3. Deney Malzemeleri
 - 1 adet metal kaşık
 - 1 kutu kibrit (sadece 1 kibrit yeterli)
 - 1 adet mum
 - 1 kap içerisinde bir miktar su (kullanılan kap saydam olmalıdır)
 - 1 adet peçete (kaşığı temizlemeniz gerekirse lazım olacak)
+# 4. 
 
 Bu bölümde aşağıdaki kısımla
 ra ve alt başlıklara yer verilir
