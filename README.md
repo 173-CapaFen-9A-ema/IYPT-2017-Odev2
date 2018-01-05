@@ -9,26 +9,7 @@
 
    Deney sonucunda; karartılan kaşığın, suda ve havada neden farklı gözüktüğü bulunur, aynaya benzer özellikleri belirlenir ve olgular araştırılır. Bu araştırma sırasında "Aynaların optik özellikleri, karbonun ve isin özellikleri, hava ve suyun özelliklerinin kaşığın görüntüsüne etkisi" konularından faydalanılır. Bu konularla ilgili bilgilere aşağıda kaynakçada verilmiş olan adreslerden ulaşılabilir.
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+ Deneyin amacı: Mum alevinde karartılılp karbonla kaplanan metal kaşığın su içine konulmasıyla kaşıkta oluşan ayna görüntüsününnedeninin ve optik özelliklerinin araştırılmasıdır.
 # Materyal ve Yöntem (Experimental Setup)
 
 Bu bölümde aşağıdaki kısımla
