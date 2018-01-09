@@ -31,7 +31,7 @@
 # 1.Veri Toplama
 1.Ödevde yaptığımız gibi birkaç makaleden yararlandık. Deneyle ilgili püf noktaları edindikten sonra bunları uygulamaya çalıştık.
 # 2.Deney Ortamı
-Deneyi uygulayan grup üyesinin mutfağında deney yapılmıştır.
+Deneyi uygulayan grup üyesinin mutfağında deney yapılmıştır. Mutfak masası üzerinde deney uygulanmıştır.
 # 3. Deney Malzemeleri
 - 1 adet metal kaşık
 - 1 kutu kibrit (sadece 1 kibrit yeterli)
@@ -39,44 +39,19 @@ Deneyi uygulayan grup üyesinin mutfağında deney yapılmıştır.
 - 1 kap içerisinde bir miktar su (kullanılan kap saydam olmalıdır)
 - 1 adet peçete (kaşığı temizlemeniz gerekirse lazım olacak)
 # 4. Deneyi Yapanlar
-Deneyi grup üyelerinden Melis yapmıştır ve deneyi video kayıdına almak için başka birinden yardım almıştır.
+Deneyi grup üyelerinden Melis yapmıştır ve başka biri deneyi kayıt altına almıştır.
 # 5. Deney Süresi
-Deney yaklaşık 1 saat sürmüştür. Deneyde yapılan yanlış bir hamle dolayısıyla süre uzamıştır.
-
-
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
-
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
-
-
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
-
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
-
+Deney yaklaşık 1 saat sürmüştür. Deneyde yapılan yanlış bir hamle dolayısıyla süre uzamıştır. 
+Kaşık, mum alevine tutulurken daha kısa sürmesi için ocak ateşine götürüldü. Fakat bu hamle bir işe yaramadı. Aksine daha fazla vakit kaybettirdi.
+# 6. Deney Yöntemi
+Deney hakkında bir önceki ödevle birlikte bilgi edinmiştik. Yeterli bilgi edindikten sonra deneyin malzemelerini ayarlandı. Problemde söylendiği şekilde deney yapıldı.
+# 7. Gözlemler
+Kaşığı mum alevine tutarken bir yere deydirmemek daha iyi olur. Çünkü kaşık herhangi bir yere sürttüğünde üstündeki tabaka siliniyor ve aynı yerleri tekrar ateşe tutmak zorunda kalıyorsunuz. Ayrıca mum alevi uzun sürer diye ocak ateşine de gitmemek gerektiği anlaşıldı. Çünkü ocak, sadece kaşığı ısıtıp rengini değiştirmesine sebep oldu. Kaşığın etrafının karbonla kaplanmasını sağlamadı. O yüzden tekrar mum alevine dönüş yapıldı.
+# 8.Deneyin Yapılışı
+Öncelikle metal kaşığın normalde suda nasıl gözüktüğünü görmek için kaşık, saydam cam bir kap içindeki suya koyuldu. Sudan çıkartıldıktan sonra kaşık peçeteyle kurulandı. Mum kibritle yakıldı. Kaşık bir süre mum alevine tutuldu. Sonra ocak alevine geçildi. Bir süre boyunca ocak ateşine tutulduktan sonra bu işlemin bir işe yaramadığı fark edildi. Tekrar mum alevine bir süre tutuldu. Kaşığın bir kısmı karartıldıktan sonra suya konuldu. Suya koyulduğu zaman kaşıkta gerçekten ayna görünümü sağlandı. Deneyin yapılışını eklenen medyalarda görebilirsiniz. Deney 1 kez uygulanmıştır. Tekrar uygulanmamıştır. İlk uygulamada başarıya ulaşılmıştır
 # Bulgular (Results)
-Yakılan metal kaşığa ayna görünümü verilebilmiştir.
-
+Yakılan metal kaşığa ayna görünümü verilebilmiştir. Deney başarıyla sonuçlanmıştır. Mum alevine tutulan kşık suya konulumca kararan kısımları ayma gibi görünmüştür. Tüm kararan kısımlarda bu gerçekleşmemiştir. Su kaşığa deydiğinde bazı kısımlardaki karbon tabakası suya karışmıştır.
+Kaşık sudan çıkartılınca tekrar normal gözükmüştür. Bir daha sokulduğunda ise yine ayna görümü vermiştir.
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
 
