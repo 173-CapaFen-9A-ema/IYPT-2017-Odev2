@@ -50,7 +50,7 @@ Kaşığı mum alevine tutarken bir yere deydirmemek daha iyi olur. Çünkü ka�
 # 8.Deneyin Yapılışı
 Öncelikle metal kaşığın normalde suda nasıl gözüktüğünü görmek için kaşık, saydam cam bir kap içindeki suya koyuldu. Sudan çıkartıldıktan sonra kaşık peçeteyle kurulandı. Mum kibritle yakıldı. Kaşık bir süre mum alevine tutuldu. Sonra ocak alevine geçildi. Bir süre boyunca ocak ateşine tutulduktan sonra bu işlemin bir işe yaramadığı fark edildi. Tekrar mum alevine bir süre tutuldu. Kaşığın bir kısmı karartıldıktan sonra suya konuldu. Suya koyulduğu zaman kaşıkta gerçekten ayna görünümü sağlandı. Deneyin yapılışını eklenen medyalarda görebilirsiniz. Deney 1 kez uygulanmıştır. Tekrar uygulanmamıştır. İlk uygulamada başarıya ulaşılmıştır
 # Bulgular (Results)
-Yakılan metal kaşığa ayna görünümü verilebilmiştir. Deney başarıyla sonuçlanmıştır. Mum alevine tutulan kşık suya konulumca kararan kısımları ayma gibi görünmüştür. Tüm kararan kısımlarda bu gerçekleşmemiştir. Su kaşığa deydiğinde bazı kısımlardaki karbon tabakası suya karışmıştır.
+Yakılan metal kaşığa ayna görünümü verilebilmiştir. Deney başarıyla sonuçlanmıştır. Mum alevine tutulan kşık suya konulumca kararan kısımları ayma gibi görünmüştür. Tüm kararan kısımlarda bu gerçekleşmemiştir. Su kaşığa değdiğinde bazı kısımlardaki karbon tabakası suya karışmıştır.
 Kaşık sudan çıkartılınca tekrar normal gözükmüştür. Bir daha sokulduğunda ise yine ayna görümü vermiştir.
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
